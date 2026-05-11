@@ -24,5 +24,5 @@ Sistema que emula o funcionamento de uma televisão no terminal, focado em geren
 ### Comandos do simulador
 * @ : Liga
 * 0 : Desliga
-* + / - : Volume
+* `+` / - : Volume
 * < / > : Navegação de canais
