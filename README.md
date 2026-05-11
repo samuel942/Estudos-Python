@@ -22,7 +22,7 @@ Sistema que emula o funcionamento de uma televisão no terminal, focado em geren
    python 01-Controle-Remoto/ControleRemoto.py
 
 ### Comandos do simulador
-* @ : Liga
-* 0 : Desliga
-* `+` / - : Volume
-* < / > : Navegação de canais
+* `@` : Liga
+* `0` : Desliga
+* `+` / `-` : Volume
+* `<` / `>` : Navegação de canais
